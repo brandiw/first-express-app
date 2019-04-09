@@ -1,0 +1,28 @@
+h1 {
+  color: royalblue;
+}
+
+p {
+  color: rebeccapurple;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: skyblue;
+}
+
+
+nav {
+  background-color: purple;
+  color: hotpink;
+}
+
+nav ul {
+  list-style-type: none;
+  display: inline;
+}
+
+nav ul li {
+  display: inline;
+}
